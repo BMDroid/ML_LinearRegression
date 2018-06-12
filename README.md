@@ -45,11 +45,9 @@ By visualizing the cost function during gradient descent, we can check whether o
 
 We can use the visualizing to adjust our learning rate and debug.
 
- <p float=“left” align=“middle”><img src="https://github.com/BMDroid/ML_LinearRegression/blob/master/figs/cost_func.png" width="60%" />
+ <p float=“left” align=“middle”><img src="https://github.com/BMDroid/ML_LinearRegression/blob/master/figs/cost_func.png" width="40%" />
 
-This is the contour of the cost function
-
-<img src="https://github.com/BMDroid/ML_LinearRegression/blob/master/figs/contour.png" width="60%" /> 
+<img src="https://github.com/BMDroid/ML_LinearRegression/blob/master/figs/contour.png" width="40%" /> 
 
 </p>
 
