@@ -1,5 +1,5 @@
 # ML_LinearRegression
-Implement the Linear Regression in Matlab and predict the profit of the bussiness related to the population of the city.
+Implement the Linear Regression in Matlab and predict the profit of the business related to the population of the city.
 
 ### 1. Be familiar with the data
 
