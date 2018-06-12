@@ -9,7 +9,7 @@ The data is in the ex1data1.txt and the first coclum is the population of a city
 
 By plotting the data, we can understand the data better. We can see the profit will be increased with the increasing of the population. So we can make educated guess that our data can be processed by the linear progression.
 
-<p align="center">  <img src="https://github.com/BMDroid/ML_LinearRegression/blob/master/figs/data.png" width="100%">
+<p align="center">  <img src="https://github.com/BMDroid/ML_LinearRegression/blob/master/figs/data.png" width="70%">
 </p>                                                                                                
 <br/>
 
@@ -17,25 +17,25 @@ By plotting the data, we can understand the data better. We can see the profit w
 
 Our objective is to minimize the cost function of the linear regression:
 
-<img><p align="center">  <img src="https://github.com/BMDroid/ML_LinearRegression/blob/master/figs/J.png" width="100%">
+<img><p align="center">  <img src="https://github.com/BMDroid/ML_LinearRegression/blob/master/figs/J.png" width="45%">
 </p>                                                                                                
 <br/>
 
 and our hypothesis is:
 
-<img><p align="center">  <img src="https://github.com/BMDroid/ML_LinearRegression/blob/master/figs/h_theta.png" width="100%">
+<img><p align="center">  <img src="https://github.com/BMDroid/ML_LinearRegression/blob/master/figs/h_theta.png" width="45%">
 </p>                                                                                                
 <br/>
 
 and using gradient descent:
 
-<img><p align="center">  <img src="https://github.com/BMDroid/ML_LinearRegression/blob/master/figs/gradient.png" width="100%">
+<img><p align="center">  <img src="https://github.com/BMDroid/ML_LinearRegression/blob/master/figs/gradient.png" width="45%">
 </p>                                                                                                
 <br/>
 
 ### 4. The result
 
-<img><p align="center">  <img src="https://github.com/BMDroid/ML_LinearRegression/blob/master/figs/linear_regression.png" width="100%">
+<img><p align="center">  <img src="https://github.com/BMDroid/ML_LinearRegression/blob/master/figs/linear_regression.png" width="70%">
 </p>                                                                                                
 <br/>
 
@@ -46,8 +46,8 @@ By visualizing the cost function during gradient descent, we can check whether o
 We can use the visualizing to adjust our learning rate and debug.
 
 <p float="left" align="middle">
-  <img src="https://github.com/BMDroid/ML_LinearRegressio/blob/master/figs/cost_func.png" width="100%" />
-  <img src="https://github.com/BMDroid/ML_LinearRegressio/blob/master/figs/contour.png" width="100%" />
+  <img src="https://github.com/BMDroid/ML_LinearRegressio/blob/master/figs/cost_func.png" width="60%" />
+  <img src="https://github.com/BMDroid/ML_LinearRegressio/blob/master/figs/contour.png" width="60%" />
 </p>
 
 ### 6. Linear regression with multiple variables
